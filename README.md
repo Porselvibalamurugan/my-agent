@@ -1,4 +1,4 @@
-# 🤖 GitAgent — Git-Native AI Agent
+# 🤖 GitAgent — AI Assistant
 
 > A framework-agnostic AI agent that lives inside a Git repository, powered by Google Gemini and built with the gitagent standard.
 
