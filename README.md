@@ -113,7 +113,7 @@ npm install
 Create a file called `.env` in the project root and add your Gemini API key:
 
 ```env
-GEMINI_API_KEY=AIzaSyYourActualKeyHere
+GEMINI_API_KEY=YourActualKeyHere
 ```
 
 > Get your free API key at https://aistudio.google.com/apikey  
