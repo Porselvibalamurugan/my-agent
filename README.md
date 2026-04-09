@@ -1,5 +1,4 @@
-# 🤖 GitAgent — AI Assistantent with all files loaded — `SOUL.md`, `RULES.md`, and `skills/`.
-
+# 🤖 GitAgent — AI Assistant
 
 > **Your Git repository becomes your AI agent.**  
 > Built on the open [gitagent](https://github.com/open-gitagent/gitagent) standard · Powered by Google Gemini · Deployed with gitclaw
