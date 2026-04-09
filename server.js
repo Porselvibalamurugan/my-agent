@@ -7,7 +7,7 @@ dotenv.config({ override: true });
 async function fetchGemini(prompt, retries = 3) {
   try {
     const response = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${process.env.GEMINI_API_KEY}`,
+      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyDV0WTrLQjKz3cz-X7NoRfO94nMeAIeEMk`,
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
