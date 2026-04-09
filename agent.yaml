@@ -1,0 +1,19 @@
+spec_version: "0.1.0"
+name: my-first-agent
+version: 0.1.0
+description: "A helpful agent that answers questions"
+model:
+  preferred: "google:gemini-2.0-flash"
+  constraints:
+    temperature: 0.7
+    max_tokens: 4096
+tools:
+  - read
+  - write
+runtime:
+  max_turns: 50
+  timeout: 120
+skills:
+  - my-skill
+tags:
+  - hackathon

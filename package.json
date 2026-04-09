@@ -1,0 +1,19 @@
+{
+  "name": "my-hackathon-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "run.js",
+  "scripts": {
+    "start": "node run.js",
+    "dev": "node run.js",
+    "serve": "node serve.js"
+  },
+  "dependencies": {
+    "clawcontainer": "^1.1.0",
+    "clawless": "^0.4.13",
+    "clawless-sdk": "^1.0.0",
+    "dotenv": "^17.4.1",
+    "express": "^5.2.1",
+    "gitclaw": "^1.3.3"
+  }
+}
