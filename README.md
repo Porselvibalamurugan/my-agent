@@ -202,11 +202,5 @@ index.html displays it in the chat bubble
 
 ---
 
-## License
-
-MIT — feel free to fork, remix, and build your own git-native agents!
-
----
-
 *Built for the gitagent Hackathon · gitagent Standard v0.1.0*
 
